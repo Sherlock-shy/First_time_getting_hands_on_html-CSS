@@ -5,6 +5,15 @@
 This is my first time getting hands on the knowledge of HTML and CSS by making a html and css with online resources via VS code, this website is not publish/host online.
 The "website" is a simple IT company webiste which are selling what services they got, how people think about them, project they have done, etc. Which including a headbar, and 4 pages.
 
+<h2>Skill/knowledge learnt</h2>
+- HTML
+- CSS
+
+<h2>Enviroment/resources used</h2>
+- VS code
+- w3schools(https://www.w3schools.com/)
+
+<h2>Overview</h2>
 "Website" home.html
 <br>
 <img src="https://github.com/Shecklock/Getting_hands_on_html-CSS/assets/84926502/1a19c074-510c-4eed-acb7-75de937f8ac9" height="80%" width="80%" alt="Disk Sanitization Steps"/>
