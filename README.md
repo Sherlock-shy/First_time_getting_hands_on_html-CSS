@@ -6,11 +6,12 @@ This is my first time getting hands on the knowledge of HTML and CSS by making a
 The "website" is a simple IT company webiste which are selling what services they got, how people think about them, project they have done, etc. Which including a headbar, and 4 pages.
 
 <h2>Skill/knowledge learnt</h2>
-- HTML
-- CSS
+- HTML<br>
+- CSS<br>
+- Javascript<br>
 
 <h2>Enviroment/resources used</h2>
-- VS code
+- VS code<br>
 - w3schools(https://www.w3schools.com/)
 
 <h2>Overview</h2>
@@ -56,7 +57,9 @@ Of course, as a company, we are providing a business, so we have a form for peop
 
 <h2>Conclusion</h2>
 
-As you can see my CSS file, you can tell my first time on the css are messed up, I used resources from w3schools and i don't think it looks good. But HTMl is on the otherside, is more easy for me then css. Futher pratise have to be done.
+As you can see my CSS file, you can tell my first time on the css are messed up, I used resources from w3schools and i don't think it looks good. But HTMl is on the otherside, is more easy for me then css. And abou thet Javascript, it is not functional as they have not been correctly called from the form.
+
+Futher pratise have to be done.
 
 
 
