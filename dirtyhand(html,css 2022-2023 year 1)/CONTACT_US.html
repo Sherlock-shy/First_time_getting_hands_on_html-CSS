@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang = en>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta charset="UTF-8">
+  <title>PROJECT</title>
+  <!-- for icon-->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link href="styles.css" rel="stylesheet">
+  <script defer src="main.js"></script>
+  <link rel="stylesheet" href="styles.css">
+</head>
+
+<div>
+  <div class="top text-white black">
+      <div class="nbar ">
+        <a href="HOME.html" class="bar-item button padding-large" onclick="myFunction()">HOME</a>
+        <a href="PROJECT.html" class="bar-item button padding-large" onclick="myFunction()">PROJECT</a>
+        <a href="PRICE.html" class="bar-item button padding-large" onclick="myFunction()">SERVICE</a>    
+        <a href="CONTACT_US.html" class="bar-item button padding-large" onclick="myFunction()">CONTACT US</a>
+      </div>
+    </div>
+</div>
+
+<body>
+<main>
+  <body>
+<div class="main-header">
+    <header class="overall-container black">
+        <h2><b>LEFT US A MESSAGE</b></h2>
+    </header>
+<div class="form-main">
+<div class="form-image"> 
+  <img src="image/Coding-vs-programming.jpg" loading="lazy"  alt="Photo by Vidar Nordli-Mathisen | Unsplash"/>
+</div>
+<div class="form">
+<p>Please fill this form if you want to prospose a project to us </p>
+<form action="#" method="post">
+  <p><label for="name">Name:</label>
+  <input type="text" id="name" name="name" required></p>
+
+  <p><label for="email">Email:</label>
+  <input type="email" id="email" name="email" required></p>
+
+  <p><label for="confirmation-email">Confirm Email:</label>
+  <input type="email" id="confirmation-email" name="confirmation-email" required></p>
+
+  <p><label for="start-date">Start Date:</label>
+  <input type="date" id="start-date" name="start-date" required></p>
+
+  <p><label for="duration">Duration:</label>
+  <input type="number" id="duration" name="duration" min="1" max="365" required>
+  <label for="duration">Day(s)</label></p>
+
+  <p><label for="contact-method">Preferred Contact Method:</label>
+  <select id="contact-method" name="contact-method">
+      <option value="email">Email</option>
+      <option value="phone">Phone</option>
+  </select></p>
+
+  <a class="w3-button w3-round-large w3-indigo w3-hover-blue" href="#services">>
+    <input type="submit" value="Submit" id="submit">
+  </a>
+</form>
+</div>
+</main>
+</body>
+<footer>
+<div class="contacts-address" id="contact">
+  <div class="contacts-address-list">
+    <div class="contacts-list">
+      <h4>location</h4>
+      <p>ASTON UNIVERSOTY</p>
+    
+    </div>
+    <div class="contacts-list">
+       <h4>Opening Hour</h4>
+       <p>Monday- Saturday: 8am -9:30pm</p>
+ 
+    </div>
+    <div class="contacts-list">
+      <h4>CONACT INFORMATION</h4>
+      <p> <i class="fa fa-phone " style="margin-right: 8px;font-size: 20px;"></i> 001-234-5678</p>
+      <p><i class="fa fa-envelope " style=" margin-right: 5px;font-size: 20px;"></i>220036506@aston.ac.uk</p>
+       
+    </div>
+    </div>
+  </div>
+</footer>
+<!-- footer-->
+<footer class="end-footer">
+  <i class="fa fa-linkedin"></i><span style="margin-right:10px;"><a href="#" target="_blank" style="text-decoration: none;">- LinkedIn</a></span><br>
+  <i class="fa fa-github"></i><span style="margin-left:10px;"><a href="#" target="_blank" style="text-decoration: none;">- Github</a></span><br>
+  <i class="fa fa-twitter"></i><span style="margin-left:10px;"><a href="#" target="_blank" style="text-decoration: none;">- Twitter</a></span><br>
+</footer>
+</html>
